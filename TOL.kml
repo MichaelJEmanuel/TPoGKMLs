@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TOL.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>TOL Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.66666667,42.0625,0 -84.38333333,42.06666667,0 -84.34014166999999,42.06450833,0 -84.21666667,42.05833333,0 -84.15123889,42.13533333,0 -84.14717778000001,42.02186389,0 -84.14444444,41.99166667,0 -83.92763056,41.79141944,0 -83.0913,41.81221111,0 -82.89166667000001,41.66444444,0 -82.84833333,41.34583333,0 -83.01722221999999,41.25027778,0 -83.005,41.06971389,0 -83.18333333,41.025,0 -83.35416667,40.9875,0 -83.65000000000001,40.7375,0 -83.74583333,40.78333333,0 -84.34722222000001,40.86305556,0 -84.83333333,41.625,0 -84.66666667,42.0625,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

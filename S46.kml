@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>S46.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>S46 Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-122.40638889,48.23333333,0 -121.9575,48.23833333,0 -121.95944444,47.95194443999999,0 -121.70277778,47.83805556,0 -121.5075,47.51777778000001,0 -121.51,47.34722222,0 -121.83305556,47.00777777999999,0 -122.29583333,46.66472222,0 -123.23416667,46.82888889,0 -123.28583333,47.24388889,0 -123.16666667,47.38805556,0 -123.00055556,47.38638889,0 -122.88888889,47.91527778,0 -122.775,48.00666667,0 -122.53361111,48.09,0 -122.40638889,48.23333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

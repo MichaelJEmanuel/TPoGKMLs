@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>YNG.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>YNG Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.5125,41.64722222,0 -79.51388889,41.575,0 -79.52027778,41.51583333,0 -79.52500000000001,41.46388889,0 -79.56666667,41.25416667,0 -79.94166667,40.94166667,0 -79.99611111,40.95833333,0 -80.06166666999999,40.97444444,0 -80.23277778000001,40.99166667,0 -80.40333333,40.97444444,0 -80.44750000000001,40.96416667,0 -80.56222222,40.92777778,0 -80.925,41.06666667,0 -81.10833332999999,41.25833333,0 -81.09611111,41.30388889,0 -81.06944444,41.40555556,0 -81.05527778,41.44333333,0 -81.06333333000001,41.58722222,0 -80.87222222,41.64166667,0 -80.375,41.67777778,0 -80.27416667,41.745,0 -80.18333333,41.74166667,0 -80.05833333,41.8,0 -79.99444444,41.79861111,0 -79.84166667,41.79166667,0 -79.5125,41.64722222,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

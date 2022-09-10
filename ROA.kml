@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ROA.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ROA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-81.16217777999999,37.21083889,0 -80.90001110999999,37.27075278,0 -80.82223333,37.43327778,0 -80.77635278,37.44994722,0 -80.52722222,37.38717778,0 -79.27051944,37.78136111,0 -78.17196944,37.53441667,0 -78.166625,37.261075,0 -78.38666388999999,37.22998056,0 -78.59171111000001,36.98328889,0 -79.55241667,36.94325,0 -79.92080556000001,36.69677778,0 -80.07082222,36.79267222,0 -80.25943332999999,36.68469167,0 -80.32360278,36.808275,0 -80.65833610999999,36.61383333,0 -80.99168056000001,36.71656667,0 -81.09585278,36.95422222,0 -81.16217777999999,37.21083889,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

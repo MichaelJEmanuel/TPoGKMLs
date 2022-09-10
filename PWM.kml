@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PWM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>PWM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-69.67888889,44.84805556,0 -69.51666667000001,44.61666667,0 -69.45,44.40972222,0 -69.40277777999999,44.26388889,0 -69,44.18333333,0 -68.81666667,44.1,0 -68.80616111000001,43.954775,0 -68.8,43.86666667,0 -69.05972222,43.8,0 -69.33027778,43.6525,0 -69.5,43.55833333,0 -69.93333333,43.31666667,0 -70.15000000000001,43.2,0 -70.28333333,43.03333333,0 -70.65000000000001,43.29166667,0 -70.99166667,43.41666667,0 -71.18333333,43.71666667,0 -71.15833333,43.78333333,0 -71.06666667,44.01111111,0 -71,44.05,0 -70.81666667,44.16666667,0 -70.86611111000001,44.33333333,0 -70.96666667,44.58333333,0 -70.92888889,44.58111111,0 -70.21611111,44.54722222,0 -70.10333333,44.80666667,0 -69.67888889,44.84805556,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

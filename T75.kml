@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>T75.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>T75 Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-90.45833333,39.40277778,0 -90.06666667,39.36666667,0 -89.68333333,39.19166667,0 -89.53555556000001,38.8925,0 -89.5,38.8,0 -89.50333333,38.675,0 -89.41666667,38.66666667,0 -89.31666667,38.55,0 -89.39166667000001,38.35833333,0 -89.77500000000001,38.09166667,0 -89.84166667,38.175,0 -90.31666666999999,38.03333333,0 -90.43333333,38.04166667,0 -90.7,38.13333333,0 -90.91666666999998,38.23333333,0 -91.08333333,38.38333333,0 -91.16111110999999,38.5,0 -91.21666667,38.76666667,0 -91.16666666999998,38.96666667,0 -91.06111111,39.13333333,0 -90.83333333,39.3,0 -90.66666667,39.375,0 -90.45833333,39.40277778,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

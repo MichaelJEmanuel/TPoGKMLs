@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PBI.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>PBI Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-80.6125,26.38333333,0 -80.65416667,26.51388889,0 -80.795575,26.88392778,0 -80.7,27.1,0 -80.71666667,27.46666667,0 -80.85416667,27.77527778,0 -80.925,27.93333333,0 -80.71138888999999,27.92666667,0 -80.38333333,27.91666667,0 -80.16666667,28.01666667,0 -80.06666667,27.85,0 -79.89166667000001,27.43166667,0 -79.94694444,27.24305556,0 -79.76194443999999,26.99333333,0 -79.38194444,26.83305556,0 -79.60638889000001,26.43333333,0 -79.7,26.38333333,0 -80.07805556,26.38333333,0 -80.1075,26.36388889,0 -80.13611111,26.38333333,0 -80.6125,26.38333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

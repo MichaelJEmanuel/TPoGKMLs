@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>N90.kml</name>
+	<Style id="sideStyle0230">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sideStyle0216">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="sideStyle0220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sideStyle0216</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sideStyle0230</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>N90 Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0220</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-74.90971111,42.12131111,0 -74.00183333,42.20689444,0 -74.03127778,41.9948,0 -73.39821944000001,42.04689444,0 -73.28044167,41.607825,0 -72.99090278,41.59294167,0 -72.97127222,41.42922222,0 -72.45108333,41.48875556,0 -72.24497221999999,41.11666389,0 -71.85728333,40.95666389,0 -71.83765278,40.75945556,0 -72.49034167000001,40.64410833,0 -72.97127222,40.28317778,0 -73.25099722,40.39852778,0 -73.70248056,40.01899444,0 -74.00183333,40.14550556,0 -74.12942778,40.00411111,0 -74.40424444,40.07852778,0 -74.56618889000001,39.99666944,0 -74.821375,40.13434167,0 -74.72813333000001,40.24969167,0 -74.96369167,40.33899167,0 -75.12881389,40.56418056,0 -75.12881389,40.66365,0 -75.27140556000001,40.92889444,0 -74.92728332999999,41.01394722,0 -74.87681388999999,41.05008333,0 -74.86465,41.11258611,0 -74.99119722,41.19760278,0 -74.85349167,41.30483611,0 -74.79394444,41.51930278,0 -74.91814721999999,41.56921944,0 -75.11310278000001,41.81216111,0 -74.90971111,42.12131111,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

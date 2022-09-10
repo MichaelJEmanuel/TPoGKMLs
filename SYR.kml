@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SYR.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SYR Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-76.79256389,43.63210556,0 -76.30349167,43.635025,0 -75.91035832999999,43.67461667,0 -75.46546111000001,43.67144167,0 -74.78239721999999,43.66666944,0 -74.40037778,43.26625278,0 -74.515675,42.99805556,0 -74.56350556,42.67356944,0 -74.618775,42.66544167,0 -74.95342221999999,42.66513056,0 -75.33282222,42.69853889,0 -75.58356111000001,42.69995833,0 -75.73380278,42.49838889,0 -76.18729166999999,42.54898056,0 -76.6842,42.79164722,0 -76.87481944,42.84679722,0 -76.90058611000001,43.33709722,0 -76.77587778,43.35403889,0 -76.79256389,43.63210556,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

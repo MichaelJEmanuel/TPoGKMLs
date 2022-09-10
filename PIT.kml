@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PIT.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>PIT Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.23277778000001,40.99166667,0 -80.06166666999999,40.97444444,0 -79.99611111,40.95833333,0 -79.94166667,40.94166667,0 -79.90277777999999,40.92416667,0 -79.76666667000001,40.84416667,0 -79.69166667,40.77083333,0 -79.66277778,40.74027778,0 -79.59833333,40.61916667,0 -79.57722222,40.48944444,0 -79.60083333,40.36027778,0 -79.66694443999999,40.23972222,0 -79.77138889,40.13666667,0 -79.81361111,40.10722222,0 -79.90694444,40.0575,0 -80.06416667000001,40.00805556,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.23277778000001,39.99111111,0 -80.40083333,40.00805556,0 -80.48055556,40.02777778,0 -80.55805556,40.0575,0 -80.625,40.08333333,0 -80.69361111000001,40.13666667,0 -80.76694444,40.20305556,0 -80.79805555999999,40.23972222,0 -80.84666667,40.31861111,0 -80.86416667,40.36027778,0 -80.88777777999999,40.48944444,0 -80.86666667,40.61916667,0 -80.83750000000001,40.68333333,0 -80.80222222,40.74027778,0 -80.69666667,40.84638889,0 -80.56222222,40.92777778,0 -80.44750000000001,40.96416667,0 -80.40333333,40.97444444,0 -80.23277778000001,40.99166667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-80.48055556,40.02777778,0 -80.55805556,40.0575,0 -80.69361111000001,40.13666667,0 -80.76694444,40.20305556,0 -80.89166667000001,40.0375,0 -80.63333333,39.9,0 -80.48055556,40.02777778,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

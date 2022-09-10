@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MKE.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>MKE Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-89.37083333,44.18333333,0 -89.33194444,43.92638889,0 -89.2879825,43.63147139,0 -88.774885,43.59158722,0 -88.708825,43.55,0 -88.51666667000001,43.51666667,0 -88.54722221999999,43.3,0 -88.58333333,43,0 -88.81666667,42.86666667,0 -88.54444444000001,42.84166667,0 -88.46111111,42.5,0 -88.32888889,42.5,0 -88.27500000000001,42.5,0 -87.41138889,42.5,0 -87.35305556,42.73555556,0 -87.21916667000001,42.77944444,0 -87,42.8,0 -87,43.685,0 -87.16944444000001,43.69166667,0 -87.54166667,43.96666667,0 -88.46666667,44.1,0 -89.07611111,44.225,0 -89.37083333,44.18333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

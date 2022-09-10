@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TUL.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>TUL Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-96.19444444,36.57361111,0 -96.05000000000001,36.60833333,0 -95.72083333,36.69583333,0 -95.01666667000001,36.34027778,0 -94.92083333000001,36.29166667,0 -95.36666667,35.87083333,0 -95.72083333,35.58333333,0 -95.79583332999999,35.5875,0 -95.81666667,35.475,0 -96.14583332999999,35.50833333,0 -96.12916667,35.62777778,0 -96.23333332999999,35.75,0 -96.57083333,36.18888889,0 -96.19444444,36.57361111,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

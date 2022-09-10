@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>TYS.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>TYS Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-83.37359721999999,36.35816667,0 -84.23234167,36.32000556,0 -84.60072221999999,36.02619167,0 -84.60073611,36.02775556,0 -84.66583056,35.66645,0 -84.84395556,35.583975,0 -84.46041667,35.28294444,0 -83.72423333,35.31630833,0 -83.35591943999999,35.60803611,0 -83.069975,35.64422778,0 -83.00691944,35.62755,0 -83.04149722,35.83335833,0 -83.37359721999999,36.35816667,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

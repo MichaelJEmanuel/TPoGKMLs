@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PVD.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>PVD Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-70.925,41.89444444,0 -70.88333333,41.90611111,0 -70.7,41.8,0 -70.78749999999999,41.70277778,0 -70.83333333,41.56388889,0 -71.03055556,41.43722222,0 -71.02944444000001,40.96388889,0 -71.85277778,40.76472222,0 -72.17416667000001,41.065,0 -72.25,41.125,0 -72.38333333,41.3625,0 -72.46666667,41.48333333,0 -72.15416667,41.60694444,0 -72.0625,41.80277778,0 -71.925,41.99583333,0 -71.48333332999999,42.1,0 -71.36083333000001,42.01555556,0 -71.22055555999999,41.91694444,0 -70.925,41.89444444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SCT.kml</name>
+	<Style id="sideStyle02110">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="sideStyle0280">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sideStyle02130</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sideStyle02110</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sideStyle02130">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SCT Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0280</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-119.08177778,34.48991389,0 -118.63320278,34.524975,0 -118.43144167,34.599025,0 -118.35963611,34.50864444,0 -118.25608056,34.54576667,0 -118.10675556,34.34314444,0 -117.837875,34.46808056,0 -117.71671667,34.29219167,0 -117.47874167,34.43914167,0 -117.25738333,34.33353333,0 -117.23318611,34.34866389,0 -116.88166667,34.16715833,0 -116.34527778,34.17485556,0 -115.81588611,33.77594444,0 -115.96571389,33.59955278,0 -115.84306667,33.54276667,0 -116.175075,33.44556389,0 -116.30676667,33.57382778,0 -116.83045833,33.62259167,0 -116.81212778,33.43400833,0 -116.59663889,33.24755833,0 -116.48102222,32.96657222,0 -116.48166667,32.586825,0 -117.12050833,32.53234167,0 -117.31383333,32.44660556,0 -117.50056667,32.524225,0 -117.55018056,32.61155,0 -117.65046111,32.576825,0 -117.75715278,32.81765833,0 -117.69268611,32.87637222,0 -117.97623611,33.200625,0 -118.41726389,33.27446667,0 -118.49239444,33.21681389,0 -118.78334167,33.474575,0 -118.76760833,33.65682778,0 -118.94181667,33.90864167,0 -118.95183611,34.20987778,0 -118.81910833,34.20865,0 -118.9951,34.38009444,0 -119.08177778,34.48991389,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

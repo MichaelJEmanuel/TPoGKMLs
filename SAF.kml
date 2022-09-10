@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SAF.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SAF Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-105.9826,36.025225,0 -105.81738333,35.970675,0 -105.6854,35.87333333,0 -105.60259167,35.74506944,0 -105.57876944,35.60146111,0 -105.61649444,35.45985556,0 -105.71093611,35.33728056,0 -105.85056944,35.24840833,0 -106.01863889,35.20383333,0 -106.19511944,35.20886111,0 -106.35903889,35.26289444,0 -106.49084444,35.35950833,0 -106.57467778,35.48716944,0 -106.60025,35.63058611,0 -106.56418056,35.77249722,0 -106.470525,35.89573333,0 -106.33043889,35.98531667,0 -106.16089444,36.03031389,0 -105.9826,36.025225,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

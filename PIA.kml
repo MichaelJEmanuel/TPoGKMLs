@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>PIA.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>PIA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-90.07916667000001,41.075,0 -89.89166667000001,41.1375,0 -89.79583332999999,41.14166667,0 -89.64749999999999,41.06583333,0 -89.29166667,40.89166667,0 -89.14555556000001,40.74055556,0 -88.66249999999999,40.74055556,0 -88.52916667,40.58333333,0 -88.56666667,40.44166667,0 -88.61666667,40.27638889,0 -88.85833332999999,40.28333333,0 -89.24583333,40.075,0 -89.3625,40.19583333,0 -89.75,40.33333333,0 -90.33333333,40.24166667,0 -90.56805556,40.33888889,0 -90.41666667,40.81666667,0 -90.28611110999999,40.85916667,0 -90.24916666999999,41.02444444,0 -90.07916667000001,41.075,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

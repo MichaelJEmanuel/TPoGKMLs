@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Y90.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Y90 Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-71.73333332999999,42.43333333,0 -71.58333333,42.36666667,0 -71.48333332999999,42.1,0 -71.64583333,42.0625,0 -71.925,41.99583333,0 -72.0625,41.80277778,0 -72.15416667,41.60694444,0 -72.46666667,41.48333333,0 -72.55,41.275,0 -72.74166667,41.28444444,0 -72.80111110999999,41.33083333,0 -73,41.36916667,0 -73.2,41.47361111,0 -73.21388889000001,41.5875,0 -73.3,41.5875,0 -73.37777778,42.05277778,0 -73.3875,42.18333333,0 -73.00083333000001,42.63333333,0 -72.85277778,42.59722222,0 -72.73333332999999,42.54166667,0 -72.68861111,42.53722222,0 -72.28611110999999,42.41666667,0 -72.00277778,42.40555556,0 -71.83333333,42.45,0 -71.73333332999999,42.43333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

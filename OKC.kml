@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>OKC.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>OKC Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.58361111000001,36.03333333,0 -97.26138889000001,36.00861111,0 -96.99361111000002,35.86444444,0 -96.83944444000001,35.62222222,0 -96.83750000000001,35.13333333,0 -97.09166667,34.925,0 -97.84999999999999,34.94166667,0 -97.99999999999999,34.96666667,0 -98.21666667,35.13333333,0 -98.21666667,35.55,0 -98.14833333,35.8625,0 -98.01666667000001,35.88333333,0 -97.58361111000001,36.03333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

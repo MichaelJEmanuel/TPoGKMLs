@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SBA.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SBA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-121.23722222,35.37166667,0 -120.85,35.53333333,0 -120.70833333,35.40277778,0 -120.52777778,35.40277778,0 -120.33333333,35.5,0 -120.10416667,35.1,0 -119.96027778,34.9075,0 -119.72083333,34.58333333,0 -120.25,34.58333333,0 -120.5,34.4,0 -120.78361111,34.32277778,0 -121.05,34.68333333,0 -121.18333333,34.85,0 -121.25,34.95,0 -120.91472222,35.10194444,0 -121.04318611,35.20969722,0 -121.23722222,35.37166667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-120.78361111,34.32277778,0 -120.5,34.4,0 -120.25,34.58333333,0 -119.72083333,34.58333333,0 -119.63333333,34.58333333,0 -119.5,34.58333333,0 -119.46944444,34.525,0 -119.41555556,34.43611111,0 -119.41555556,34.29166667,0 -119.66666667,34.11666667,0 -120,34.11666667,0 -120,34.13333333,0 -120.42222222,34.13333333,0 -120.5,34.1,0 -120.78361111,34.32277778,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SDF.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SDF Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.70978889,38.60611389,0 -85.46068611,38.82938056,0 -85.39590556,38.833025,0 -85.33110556,38.83845556,0 -85.29623889,38.6507,0 -84.970275,38.472675,0 -85.11776944,38.16556111,0 -85.12021111,37.86933611,0 -85.16667778,37.70404444,0 -85.53850278,37.594525,0 -85.98211111000001,37.51638056,0 -86.56343333,37.65707222,0 -86.62544444,38.17847222,0 -86.6418,38.31222778,0 -86.65034722,38.35327222,0 -86.70978889,38.60611389,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

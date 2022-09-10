@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RDU.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>RDU Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-78.28189722,36.46526944,0 -78.68995833,36.46625,0 -79.32277499999999,36.24156944,0 -79.57883889,35.42564722,0 -79.39363889000001,35.37561667,0 -79.24276111,35.49835833,0 -79.08215278,35.53434444,0 -78.61640556,35.47620556,0 -78.367475,35.52048056,0 -78.15303333,35.69274722,0 -78.21790833,35.92624167,0 -78.09567222,36.12224722,0 -78.12957222,36.38006389,0 -78.28189722,36.46526944,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MSN.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>MSN Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-89.95833333,43.64444444,0 -89.76666667000001,43.66666667,0 -89.63972222,43.65638889,0 -89.28749999999999,43.62638889,0 -88.77500000000001,43.59166667,0 -88.70888889,43.55,0 -88.51666667000001,43.51666667,0 -88.58333333,43,0 -88.81666667,42.86666667,0 -89.08722222,42.81444444,0 -89.75833333,42.68333333,0 -89.84027777999999,42.77055556,0 -89.93083333,42.86666667,0 -90.08055555999999,43.025,0 -90.24444444,43.2,0 -90.17499999999998,43.41666667,0 -89.95833333,43.64444444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

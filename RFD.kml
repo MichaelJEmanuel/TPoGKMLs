@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>RFD.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>RFD Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-90.22916667,42.14583333,0 -90.09166667,42.2125,0 -90.07944444,42.24972222,0 -90.00416667,42.425,0 -89.75833333,42.68333333,0 -89.08722222,42.81444444,0 -88.81666667,42.86666667,0 -88.54444444000001,42.84166667,0 -88.46111111,42.5,0 -88.54444444000001,42.30944444,0 -88.64888888999999,42.21583333,0 -88.81972222,42.03111111,0 -88.81888889,41.86861111,0 -88.81944444,41.84722222,0 -88.81999999999999,41.79333333,0 -88.74583333,41.68055556,0 -89.15916667,41.68805556,0 -89.22361110999999,41.66611111,0 -89.72499999999999,41.49166667,0 -90.04583332999999,42.07916667,0 -90.22916667,42.14583333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

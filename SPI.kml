@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>SPI.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>SPI Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-89.75,40.33333333,0 -89.3625,40.19583333,0 -89.24583333,40.075,0 -89.18333333,40.01666667,0 -89.18472222,40,0 -89.21666667,39.80833333,0 -89.15000000000001,39.56666667,0 -89.68333333,39.19166667,0 -89.72499999999999,39.22083333,0 -90.06666667,39.36666667,0 -90.45833333,39.40277778,0 -90.45000000000002,39.95,0 -90.33333333,40.24166667,0 -89.75,40.33333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

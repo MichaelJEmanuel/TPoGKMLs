@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MYR.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>MYR Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.06666667,34.43333333,0 -78.75,34.44444444,0 -78.35833332999999,34.16666667,0 -78.39555556000001,33.84194444,0 -78.55861111,33.74,0 -78.55555556,33.63333333,0 -78.59999999999999,33.52083333,0 -78.7,33.42916667,0 -78.83333333,33.37083333,0 -79.00194444,33.36777778,0 -79.07055556,33.28361111,0 -79.09138889,33.18361111,0 -79.18583332999999,33.09333333,0 -79.58333333,33.39583333,0 -79.97499999999999,33.4125,0 -79.8475,33.85416667,0 -79.79972222000001,33.83361111,0 -79.69138889,33.81694444,0 -79.58388889,33.82694444,0 -79.06666667,34.21666667,0 -79.06666667,34.43333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
