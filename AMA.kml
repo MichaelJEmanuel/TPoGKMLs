@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AMA.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>AMA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-102.38666667,35.0475,0 -102.42333333,35.24111111,0 -102.3725,35.44361111,0 -102.25777778,35.60361111,0 -102.03361111,35.74833333,0 -101.78611111,35.81,0 -101.54638889,35.79666667,0 -101.53361111,35.94,0 -101.455,35.92583333,0 -101.33972222,35.89083333,0 -101.33972222,35.87194444,0 -101.30944444,35.71194444,0 -101.09388889,35.52361111,0 -101.01138889,35.34194444,0 -101.03111111,35.055,0 -101.2175,34.80583333,0 -101.50805556,34.66777778,0 -101.82,34.65138889,0 -102.04333333,34.71138889,0 -102.23027778,34.83222222,0 -102.30555556,34.72083333,0 -102.38472222,34.79305556,0 -102.45305556,34.875,0 -102.47611111,34.91361111,0 -102.38666667,35.0475,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

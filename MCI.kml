@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MCI.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>MCI Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-93.90000000000001,39.56666667,0 -94.02500000000001,39.00833333,0 -94.29583332999998,38.53333333,0 -95.10833332999999,38.53333333,0 -95.15000000000001,38.73333333,0 -95.84277778000001,38.79027778,0 -95.81583333,39.20555556,0 -95.23888888999998,39.82777778,0 -95.15833333,40.05,0 -94.44333332999999,40.05,0 -94.56666667,39.82083333,0 -94.1125,39.77083333,0 -93.90000000000001,39.56666667,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

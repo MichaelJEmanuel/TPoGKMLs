@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FSM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FSM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-93.78333333,35.55,0 -93.66666667,35.19166667,0 -93.76666667000002,35,0 -93.925,34.88333333,0 -94.15000000000001,34.78333333,0 -94.81666667,34.75555556,0 -95,35.06666667,0 -95,35.25,0 -95,35.38333333,0 -95,35.65416667,0 -94.75,35.85,0 -94.69999999999999,36.46666667,0 -94.51666667000001,36.61666667,0 -94.3,36.725,0 -94.265,36.72861111,0 -94.05,36.75,0 -93.58333332999999,36.51944444,0 -93.36666667,36,0 -93.78333333,35.55,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

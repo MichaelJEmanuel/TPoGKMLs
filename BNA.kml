@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BNA.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BNA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-86.91545556,36.68111389,0 -86.16978056000001,36.64709444,0 -85.98248889,36.44802778,0 -85.88137777999999,36.22421111,0 -85.89472778,35.90300556,0 -86.07584444,35.67865,0 -86.67677222,35.6174,0 -87.11165278,35.69999444,0 -87.30748056,35.87223611,0 -87.32758611,36.42289444,0 -86.91545556,36.68111389,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

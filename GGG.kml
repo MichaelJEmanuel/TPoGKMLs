@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GGG.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>GGG Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-95.35555556,33,0 -94.35833332999999,32.91666667,0 -94.31666667,32.50388889,0 -94.32777778000002,32.07083333,0 -94.45805556000001,31.86666667,0 -94.60750000000002,31.80972222000001,0 -95.19944443999999,31.82555556,0 -95.43333333,31.80388889,0 -95.81250000000001,32.25,0 -95.85722222,32.58944444,0 -95.35555556,33,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

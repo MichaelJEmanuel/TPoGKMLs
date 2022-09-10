@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GPT.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>GPT Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-89.79704167,30.64437222000001,0 -89.87751667000001,30.46788611,0 -89.61677222,30.38329999999999,0 -89.61682777999999,30.35013611,0 -89.50002222000001,30.00322778,0 -89.49986667,29.92228611000001,0 -89.20026111,29.88332222,0 -89.15023333000001,29.937525,0 -88.6829,30.18355,0 -88.65226667,30.178075,0 -88.62718611,30.17928889,0 -88.59615556,30.16935833000001,0 -88.56765833,30.16758611,0 -88.53739444,30.1734,0 -88.52363056,30.16731389,0 -88.65840833,30.39196667,0 -88.624325,30.61268056,0 -88.69981111,30.68518333,0 -88.79939444,30.87814444,0 -88.86699444,31.00850278,0 -89.13345833,30.90860278,0 -89.39565278000001,30.90623056,0 -89.67783056,30.90303611,0 -89.79704167,30.64437222000001,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

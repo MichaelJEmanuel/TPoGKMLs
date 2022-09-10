@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HUF.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>HUF Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-87.25,40.3,0 -86.91666667,40.07083333,0 -86.95,40,0 -86.97499999999999,39.95416667,0 -86.90000000000001,39.38333333,0 -86.36666667,39.3125,0 -86.34166667,39,0 -86.5,39,0 -86.75,38.7,0 -86.96555556,38.69333333,0 -86.98555555999999,38.77916667,0 -88.10666667,38.80805556,0 -88.11027778,38.89916667,0 -88.12916667,39.38611111,0 -87.96666667,39.41666667,0 -87.84166667,39.71666667,0 -87.25,40.3,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ELM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ELM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-76.68861111,42.76694444,0 -76.69555556,42.73111111,0 -76.80138889,42.60611111,0 -76.89638889,42.63944444,0 -77.09694444,42.65833333,0 -77.58777778,42.29916667,0 -77.44944443999999,42.22305556,0 -77.45638889,41.82083333,0 -77.63944444000001,41.54416667,0 -77.20388889,41.47333333,0 -77.16249999999999,41.72611111,0 -76.61722222,41.6725,0 -76.41944444000001,41.93111111,0 -76.53027778000001,41.98111111,0 -76.51000000000001,42.20722222,0 -76.255,42.45361111,0 -76.18166667,42.54777778,0 -76.68861111,42.76694444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

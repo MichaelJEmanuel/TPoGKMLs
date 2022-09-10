@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BIL.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BIL Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-108.50527778,46.84277778000001,0 -107.74472222,46.68138889,0 -107.24638889,46.31194444000001,0 -107.11944444,45.89777778,0 -107.24555556,45.35972221999999,0 -107.65611111,45.01444443999999,0 -108.03777778,44.85805556,0 -108.50666667,44.76388889,0 -109.40111111,44.98277778,0 -109.90305556,45.40638889,0 -110.05222222,45.92833332999999,0 -108.83416667,46.3275,0 -109.58666667,46.56833333,0 -109.19833333,46.79305556,0 -108.50527778,46.84277778000001,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

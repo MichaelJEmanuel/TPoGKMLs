@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EGE.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>EGE Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-106.81666111,39.97160278,0 -106.67825,39.92615556,0 -106.56861944,39.84689444,0 -106.50100833,39.743475,0 -106.48342222,39.62844167,0 -106.51775,39.51569167,0 -106.59963333,39.41878056,0 -106.71910833,39.34931667,0 -106.86182778,39.31559167,0 -107.010775,39.32162778,0 -107.148225,39.3667,0 -107.25776111,39.44544444,0 -107.32619167,39.54844444,0 -107.34512222,39.66335556,0 -107.31204167,39.77633611,0 -107.23071944,39.87371944,0 -107.11086111,39.94368333,0 -106.96698889,39.97769444,0 -106.81666111,39.97160278,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

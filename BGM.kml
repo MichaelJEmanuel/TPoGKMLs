@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BGM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BGM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-76.18027778,42.5475,0 -75.73416666999999,42.49861111,0 -75.54611111,42.23166667,0 -74.91472222,42.11305556,0 -75.05416667,41.865,0 -75.19638888999999,41.73111111,0 -76.40527778000001,41.67083333,0 -76.4325,41.64083333,0 -76.61027778,41.67,0 -76.41944444000001,41.92777778,0 -76.53555556000001,41.98361111,0 -76.50972222,42.20888889,0 -76.25361110999999,42.45333333,0 -76.18027778,42.5475,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

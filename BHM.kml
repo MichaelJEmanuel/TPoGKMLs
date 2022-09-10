@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BHM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BHM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-87.55630139,34.02025722,0 -87.27510306000001,34.09727528,0 -87.02663833,34.09806361,0 -86.71605139,34.09835,0 -86.17422778,34.37523389,0 -86.00760443999999,34.24317278,0 -86.13253611,34.15641528,0 -85.82006638999999,33.88415583,0 -85.7199475,33.4937525,0 -86.19712806,33.05146028,0 -87.03261194,32.97295667,0 -87.12243139,33.01646083,0 -87.39612806,33.01535583,0 -87.85012333,32.71001833,0 -87.99124556,33.05063472,0 -87.62084222,33.31218889,0 -87.55630139,34.02025722,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

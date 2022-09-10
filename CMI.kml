@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CMI.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CMI Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-89.18333333,40.01666667,0 -89.24583333,40.075,0 -88.85833332999999,40.28333333,0 -88.70166666999999,40.37,0 -88.56666667,40.44166667,0 -88.08750000000001,40.50833333,0 -87.40416667,40.49166667,0 -87.38333333,40.38333333,0 -87.25,40.3,0 -87.84166667,39.71666667,0 -87.96666667,39.41666667,0 -88.12916667,39.38611111,0 -88.32083333,39.35,0 -89.15000000000001,39.56666667,0 -89.21666667,39.80833333,0 -89.18472222,40,0 -89.18333333,40.01666667,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

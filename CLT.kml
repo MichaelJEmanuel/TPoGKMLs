@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CLT.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CLT Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-81.33333333,34.39444444,0 -81.37083333,34.475,0 -81.72499999999999,35.23888889,0 -81.67916667,35.43166667,0 -81.66666667,35.48333333,0 -81.55416667,35.58611111,0 -81.35277778,35.65888889,0 -81.41138889,35.74055556,0 -81.30333333,35.78861111,0 -81.23222222,35.68916667,0 -80.59166667,35.80833333,0 -80.22916667,35.5,0 -80,35.3,0 -79.99416667,35.11666667,0 -80.14722222,34.85555556,0 -80.17972222,34.75861111,0 -80.34361111,34.68694444,0 -80.45277778000001,34.63888889,0 -80.49944444,34.66944444,0 -80.57833333000001,34.70333333,0 -80.72416667,34.64416667,0 -80.85166667,34.59222222,0 -81.24166667,34.43222222,0 -81.33333333,34.39444444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

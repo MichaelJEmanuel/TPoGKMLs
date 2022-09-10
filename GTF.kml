@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GTF.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>GTF Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-112.0625,47.68888889,0 -111.975,47.77222222,0 -111.77916667,47.88333333000001,0 -111.53888889,47.94166667,0 -111.28333333,47.94166667,0 -111.04166667,47.88333333000001,0 -110.84583333,47.77083333000001,0 -110.71666667,47.61666666999999,0 -110.675,47.42916666999999,0 -110.72083333,47.275,0 -110.84583333,47.125,0 -111.04166667,47.0125,0 -111.30555556,46.95555556,0 -111.55833333,46.95833333,0 -111.79583333,47.02222222,0 -111.95,47.10833333,0 -112.0625,47.68888889,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

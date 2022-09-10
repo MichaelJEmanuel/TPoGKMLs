@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FAY.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FAY Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.05826111,35.52972222,0 -78.61750000000001,35.47777778,0 -78.40888889,34.99777778,0 -78.32361111,34.98694444,0 -78.68333333,34.4,0 -78.75,34.44444444,0 -79.06666667,34.43333333,0 -79.2625,34.42916667,0 -79.33333333,34.425,0 -79.48055556,34.53333333,0 -79.72916667,34.7125,0 -79.91666667,34.85,0 -80.14722222,34.85555556,0 -80,35.10833333,0 -79.9999,35.304,0 -79.80416667,35.38333333,0 -79.57888889,35.42611111,0 -79.08361111000001,35.53444444,0 -79.05826111,35.52972222,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

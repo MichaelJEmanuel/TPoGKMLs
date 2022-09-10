@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MGM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>MGM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-87,32.97222222,0 -86.18055556,33.07222222,0 -85.95,33,0 -85.84999999999999,32.96666667,0 -85.77500000000001,32.8,0 -85.75,32.45555556,0 -85.69583333,32.00833333,0 -85.98333332999999,31.99166667,0 -86.07444443999999,31.96305556,0 -86.46250000000001,31.84166667,0 -86.90000000000001,32,0 -87.05,32.05416667,0 -87.04583332999999,32.1875,0 -87.22499999999999,32.2,0 -87.22499999999999,32.45,0 -87.03749999999999,32.54166667,0 -87,32.88333333,0 -87,32.97222222,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

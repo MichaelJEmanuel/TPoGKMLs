@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ILM.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ILM Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-78.685,34.39694444,0 -78.32361111,34.98694444,0 -77.95083332999999,34.94916667,0 -77.49611111,35.1025,0 -77.38722222,34.91583333,0 -77.52194444,34.79888889,0 -77.69444444,34.63138889,0 -77.64972222,34.51888889,0 -77.59444444,34.47166667,0 -77.49971944000001,34.39194444,0 -77.5,33.85,0 -77.51166667,33.52555556,0 -77.75083333000001,33.70555556,0 -77.93277778,33.84166667,0 -78.09972222,33.84166667,0 -78.14972222,33.84194444,0 -78.39555556000001,33.84194444,0 -78.35833332999999,34.15722222,0 -78.685,34.39694444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

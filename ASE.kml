@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ASE.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ASE Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-107.30194444,39.59194444,0 -107.07805556,39.67583333,0 -106.94277778,39.72611111,0 -106.82861111,39.74638889,0 -106.8,39.7,0 -106.72666667,39.58277778,0 -106.64916667,39.45777778,0 -106.54638889,39.44055556,0 -106.44166667,39.43333333,0 -106.43333333,39.27222222,0 -106.63333333,39.18333333,0 -106.85,39.11666667,0 -107.11666667,39.13333333,0 -107.29888889,39.24472222,0 -107.40277778,39.30777778,0 -107.36666667,39.5,0 -107.30194444,39.59194444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

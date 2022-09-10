@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FWA.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FWA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.93333333,41.37777778,0 -85.47083333,41.44888889,0 -85.47083333,41.67083333,0 -85.04722221999999,41.64027778,0 -84.83333333,41.625,0 -84.6275,41.30611111,0 -84.3875,40.6,0 -85.09166667,40.3,0 -85.31666667,40.43333333,0 -85.47499999999999,40.51666667,0 -85.50416667,40.55833333,0 -85.7625,40.87916667,0 -86.11694444,40.96666667,0 -86.11777778,41.21944444,0 -85.93861944,41.37325556,0 -85.93333333,41.37777778,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

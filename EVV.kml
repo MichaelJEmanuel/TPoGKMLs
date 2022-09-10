@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EVV.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>EVV Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-88.10694444000001,38.81361111,0 -86.98527778,38.78611111,0 -86.95027777999999,38.70638889,0 -86.74250000000001,38.70527778,0 -86.64055556,38.33916667,0 -86.61222222000001,38.16805556,0 -86.44666667,38.13888889,0 -86.41055556000001,37.86444444,0 -86.57138888999999,37.82611111,0 -86.55361111000001,37.655,0 -86.92749999999999,37.33694444,0 -86.91138889,37.27611111,0 -87.395,37.26805556,0 -87.56777778,37.22194444,0 -88.32833333000001,37.72777778,0 -88.25222221999999,38.12166667,0 -88.10944444,38.48,0 -88.10694444000001,38.81361111,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

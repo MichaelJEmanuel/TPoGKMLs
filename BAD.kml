@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BAD.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BAD Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-93.76666667000002,33.03333333,0 -93.63333333,33.01666667,0 -93.25000000000001,32.95833333,0 -92.83750000000001,32.875,0 -92.86249999999998,32.19166667,0 -93.79583332999999,31.8,0 -94.32777778000002,32.07083333,0 -94.31666667,32.5,0 -94.325,32.625,0 -94.35833332999999,32.91666667,0 -94.1125,32.9625,0 -93.81666667,33.03333333,0 -93.76666667000002,33.03333333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-93.90694443999999,33.52444444,0 -93.87194443999999,33.45694444,0 -93.90416667,33.38527778,0 -93.99611111,33.35361111,0 -94.08277778000001,33.38083333,0 -94.11111111,33.45361111,0 -94.07472222,33.52611111,0 -93.99500000000002,33.55444444,0 -93.90694443999999,33.52444444,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-94.3125,32.62416667,0 -94.41083333,32.58,0 -94.42,32.49388889,0 -94.37416666999999,32.43833333,0 -94.30861111000002,32.42027778,0 -94.3125,32.62416667,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

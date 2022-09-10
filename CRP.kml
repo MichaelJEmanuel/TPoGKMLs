@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CRP.kml</name>
+	<Style id="sideStyle0250">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="sideStyle0200">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="sideStyle0240">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sideStyle0250</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sideStyle0200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark>
+		<name>CRP Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0240</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-97.93833333000001,28,0 -97.96666667,28.03333333000001,0 -97.99999999999999,28.13333333,0 -97.90444444000001,28.17888889,0 -97.74166667,28.2625,0 -97.59972222,28.26666667,0 -97.19166667000002,28.28333333,0 -96.90833333000002,28.23888889,0 -96.52805556,28.05138889,0 -96.59166667,28,0 -96.75,27.86666667,0 -96.83055555999998,27.76861111,0 -96.76666667000001,27.46666667,0 -96.93333333,27.25,0 -97.08888888999999,27.34583333,0 -97.1125,27.28055556,0 -97.14583333000002,27.15833333,0 -97.15972222000001,27.02083333,0 -97.15027778,26.93611111,0 -97.12916667,26.83333333,0 -97.04166666999998,26.58333333,0 -96.97222222000001,26.33333333,0 -96.94583333,26.16666667,0 -96.925,26.05833333,0 -96.92777778,26.00027778,0 -96.92777778,25.99166667,0 -97,25.99166667,0 -97.09999999999999,26,0 -97.29166667000001,25.95,0 -97.35833332999998,25.81666667,0 -97.74999999999999,26,0 -97.95833333,26.05833333,0 -98.21666667,26.06666667,0 -98.425,26.18333333,0 -98.58750000000001,26.23888889,0 -98.50000000000001,26.45833333,0 -98.3,26.80277778,0 -97.81111111,26.82222222,0 -97.77166667,26.96944444,0 -97.74222222,27.08,0 -97.63333333000001,27.46666667,0 -97.59999999999999,27.6,0 -97.73333333000001,27.75833333,0 -97.93833333000001,28,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

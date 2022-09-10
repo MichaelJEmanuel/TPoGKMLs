@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>EUG.kml</name>
+	<Style id="sideStyle02100">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="sideStyle0290">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sideStyle02120</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sideStyle02100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sideStyle02120">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>EUG Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0290</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-123.5,44.75,0 -123.20277778,44.7625,0 -123.15277778,44.75972222,0 -122.88333333,44.55,0 -122.71666667,44.38333333,0 -122.5,44.15,0 -122.56666667,43.96666667,0 -122.58333333,43.93638889,0 -122.61666667,43.86666667,0 -122.76666667,43.75,0 -122.86666667,43.66666667,0 -123.13333333,43.6,0 -123.25,43.6,0 -123.31666667,43.6,0 -123.43333333,43.61666667,0 -123.55138889,43.65305556,0 -123.65,43.68333333,0 -123.96666667,43.93333333,0 -123.93333333,44,0 -123.5,44.75,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-123.08333333,42.93333333,0 -122.875,42.93333333,0 -122.41666667,42.7,0 -122.41666667,42.43333333,0 -122.41666667,42.38333333,0 -122.41666667,42,0 -123.23333333,42,0 -123.48333333,42.31666667,0 -123.45277778,42.41805556,0 -123.40416667,42.65277778,0 -123.38333333,42.74166667,0 -123.08333333,42.93333333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

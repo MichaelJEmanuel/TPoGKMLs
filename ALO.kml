@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ALO.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ALO Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-93.26666666999999,42.6625,0 -93.05,42.66666667,0 -93.00000000000001,42.78333333,0 -92.87222222,43.21111111,0 -92.65277777999999,43.24166667,0 -92.26666667000001,43.275,0 -91.98333333000001,42.91666667,0 -91.66666667000001,42.78333333,0 -91.7,42.3,0 -91.70416667000001,42.25,0 -92.28527778,42.19916667,0 -92.33750000000001,42.125,0 -92.32083333,41.96666667,0 -92.84444444,41.925,0 -92.95,41.95833333,0 -93.26666666999999,42.15833333,0 -93.35416667,42.21666667,0 -93.35555556,42.2375,0 -93.26666666999999,42.6625,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

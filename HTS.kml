@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HTS.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>HTS Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-82.20861111000001,37.92416667,0 -82.23333332999999,38.14027778,0 -82.13333333,38.4375,0 -82.01530278,38.54355556,0 -81.87916667,38.7,0 -81.7,38.85388889,0 -81.72063889,39.02894444,0 -82.00736111000001,39.09527778,0 -82.05422222,39.20772222,0 -81.81666667,39.29958333,0 -81.83286111,39.43302778,0 -81.96652778000001,39.48313889,0 -82.53361111,39.20516667,0 -82.55597222,39.13638889,0 -82.49227777999999,39.05897222,0 -83.03138889,39.08147222,0 -83.03166667000001,38.77908333,0 -83.23913889000001,38.77194444,0 -83.05508333,38.03325,0 -83.11855556,37.896,0 -82.77361111,37.62191667,0 -82.55463889000001,37.59722222,0 -82.20861111000001,37.92416667,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

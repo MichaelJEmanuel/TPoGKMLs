@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CHS.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CHS Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.18583332999999,33.09333333,0 -79.28305555999999,33.00027778,0 -79.55666667,32.62527778,0 -79.75749999999999,32.70277778,0 -80.13305556,32.50444444,0 -80.24972222,32.51277778,0 -80.35805556,32.56694444,0 -80.45055556,32.61916667,0 -80.50833333,32.76666667,0 -80.46666667,32.8625,0 -80.82361111,32.89583333,0 -80.89722222,32.90277778,0 -80.95361111,32.90777778,0 -80.89472222000001,33.14138889,0 -80.74966111000001,33.33635556,0 -80.66433056,33.37561111,0 -80.625,33.29305556,0 -80.20555555999999,33.375,0 -79.97499999999999,33.4125,0 -79.79027778,33.40555556,0 -79.58333333,33.39583333,0 -79.4375,33.29166667,0 -79.18583332999999,33.09333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

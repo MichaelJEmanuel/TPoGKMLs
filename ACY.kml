@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ACY.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ACY Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-75.30686389,39.42678056,0 -75.162875,39.50844722,0 -75.09517778,39.54604444,0 -74.96609721999999,39.64971111,0 -74.9111,39.70912222,0 -74.72431111,39.7248,0 -74.49996111,39.65511111,0 -74.49111667,39.64099444,0 -74.48020833,39.61599722,0 -74.45783333,39.59904444,0 -74.44116111,39.59902222,0 -74.35502778,39.64724722,0 -74.29265832999999,39.72361111,0 -74.17161111,39.71605833,0 -74.06032500000001,39.66361389,0 -73.93287778,39.57429167,0 -73.81433056,39.64974167,0 -73.43364443999999,39.33218333,0 -73.977975,38.53975,0 -74.33233333,38.74951389,0 -74.88329722,38.74887778,0 -74.86857500000001,38.84949444,0 -74.95413056,38.90143333,0 -74.981875,38.94006944,0 -75.16219443999999,39.09666667,0 -75.06651943999999,39.23987222,0 -75.30686389,39.42678056,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

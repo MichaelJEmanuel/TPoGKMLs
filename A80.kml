@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>A80.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>A80 Airspace</name>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.13413611,34.43793611,0 -83.31815278000001,34.33033611,0 -82.82815832999999,34.00594167,0 -83.08180833,33.49728333,0 -82.69939167,32.99945278,0 -82.66189722,32.88400556,0 -82.66817500000001,32.61952222,0 -82.6464,32.44641389,0 -83.49234167,32.12505556,0 -83.79381667,32.09284167,0 -85.239975,31.82872778000001,0 -85.69411389,32.00737778,0 -85.74786666999999,32.45630278,0 -85.77442222000001,32.80002222,0 -85.46480278,33.19920833,0 -85.26627778,33.216825,0 -85.22470278,33.34585833,0 -85.22488333,33.75598333,0 -85.11764167,33.97180556,0 -84.95018333,34.162025,0 -84.70343611,34.27999444,0 -84.15819166999999,34.33425556,0 -84.13413611,34.43793611,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

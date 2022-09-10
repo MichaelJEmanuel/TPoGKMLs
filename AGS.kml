@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>AGS.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>AGS Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-82.26638889,34.06638889,0 -81.89166667000001,34.08333333,0 -81.80444444,33.98527778,0 -81.64472222000001,33.77861111,0 -81.45805556000001,33.35638889,0 -81.50416667,33.01111111,0 -81.84361111,32.89166667,0 -81.875,32.88055556,0 -82.7,33,0 -83.08194444,33.49805556,0 -82.8275,34.00638889,0 -82.34999999999999,34.05416667,0 -82.26638889,34.06638889,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CKB.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CKB Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-81.19166667,39.55,0 -80.63333333,39.9,0 -80.48055556,40.02777778,0 -80.40083333,40.00805556,0 -80.23277778000001,39.99111111,0 -80.06416667000001,40.00805556,0 -79.90694444,40.0575,0 -79.81361111,40.10722222,0 -79.58055555999999,40.045,0 -79.20833333,39.58333333,0 -79.23333332999999,39.46666667,0 -79.27222222,39.3,0 -79.375,39.14166667,0 -79.42083332999999,39.05,0 -79.63333333,38.7,0 -80,38.7,0 -80.6125,38.56944444,0 -80.99166667,38.94166667,0 -80.77777777999999,39.31666667,0 -81.10277778,39.50416667,0 -81.19166667,39.55,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>CID.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>CID Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-92.33750000000001,42.125,0 -92.32083333,41.96697222,0 -92.28333333,41.64166667,0 -92.01611111,41.30694444,0 -91.81666667000002,41.31944444,0 -91.34166667,41.35144444,0 -90.92500000000001,41.84583333,0 -90.35125000000001,42.37422222,0 -90.41463888999999,42.51880556,0 -90.53249999999998,42.62030556,0 -90.71588888999999,42.63716667,0 -90.85386111,42.62797222,0 -91.15055556,42.34166667,0 -91.70027777999999,42.3,0 -91.70416667000001,42.25,0 -92.28527778,42.19916667,0 -92.33750000000001,42.125,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

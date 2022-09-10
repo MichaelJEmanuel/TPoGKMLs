@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FSI.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FSI Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-87,42.35694444,0 -86.31666667,42.38333333,0 -86.20027777999999,42.38722222,0 -86.01388889,42.38888889,0 -86.02083333,42.26666667,0 -86.02500000000001,42.1625,0 -85.84166667,41.93333333,0 -85.68333333,41.96666667,0 -85.59444444,41.86666667,0 -85.49166667,41.74166667,0 -85.47083333,41.67083333,0 -85.47083333,41.44888889,0 -85.93333333,41.37777778,0 -85.93861944,41.37325556,0 -86.11777778,41.21944444,0 -86.11759167,41.15918889,0 -86.11694444,40.96666667,0 -86.40833333,41.03333333,0 -86.7,41.06666667,0 -86.84388889,41.13861111,0 -87.02361111,41.22083333,0 -87.09999999999999,41.28333333,0 -87.20194444000001,41.35027778,0 -87.13668611,41.431025,0 -87.13416667,41.43416667,0 -87.05833333,41.7,0 -87.05833333,42.23611111,0 -87,42.35694444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

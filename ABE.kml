@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ABE.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ABE Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-75.68703889,40.32385833,0 -76.18373889,40.40721111,0 -76.15544444,40.82591111,0 -75.73389444,40.91426389,0 -75.46531667000001,40.99958611,0 -75.36629444,40.97350278,0 -75.27812778000001,41.03751111,0 -75.17956667,41.24888611,0 -75.16067778,41.3072,0 -74.93873889,41.23037778,0 -74.8361,41.21582222,0 -74.71933056,41.22193056,0 -74.86383889,41.11226944,0 -74.87397778,41.05448056,0 -74.94466389,40.99175278,0 -74.92651389,40.66905278,0 -74.97482221999999,40.51341944,0 -75.007075,40.48904722,0 -75.06718333000001,40.48248333,0 -75.39278889000001,40.4591,0 -75.68703889,40.32385833,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

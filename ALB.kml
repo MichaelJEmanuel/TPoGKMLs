@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ALB.kml</name>
+	<Style id="sideStyle02">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ALB Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle02</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-74.40000000000001,43.26666667,0 -74.03527778,43.32638889,0 -73.82222222,43.37111111,0 -73.75,43.53611111,0 -73.4875,43.525,0 -73.425,43.36666667,0 -73.41916667,43.33777778,0 -73.24055556,43.26666667,0 -73.10583333,43.21138889,0 -72.85833332999999,43.10833333,0 -73.01666667000001,43.02222222,0 -73.00083333000001,42.63333333,0 -72.85277778,42.59722222,0 -72.73333332999999,42.54166667,0 -72.84444444,42.44444444,0 -72.97499999999999,42.37138889,0 -73.37777778,42.05277778,0 -73.46666667,41.975,0 -74.04555556,41.98833333,0 -74,42.14166667,0 -74.3,42.175,0 -74.44583333,42.36111111,0 -74.58333333,42.54166667,0 -74.5625,42.675,0 -74.51666667000001,43,0 -74.40000000000001,43.26666667,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

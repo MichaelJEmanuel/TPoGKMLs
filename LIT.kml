@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>LIT.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>LIT Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-92.59166667,35.31666667,0 -92,35.31666667,0 -91.5,35.43333333,0 -91.46388888999999,35.3625,0 -91.32083333,35.08333333,0 -91.49722222,35.0375,0 -91.44166667000002,34.5,0 -91.36666667,34.36666667,0 -91.55555556,34.15277778,0 -91.68333333,34,0 -91.93333333,33.91666667,0 -92.24999999999999,33.91666667,0 -92.28333333,34.18888889,0 -92.67083332999999,34.2625,0 -92.74999999999999,34.27777778,0 -92.81666667,34.29166667,0 -92.81666667,34.45,0 -92.81666667,34.82083333,0 -92.64583333,35.19722222,0 -92.59166667,35.31666667,0 -92.65027778,35.18444444,0 -92.69222222,35.08666667,0 -92.75138889,35.09694444,0 -92.76388889,35.16222222,0 -92.71305556000002,35.18583333,0 -92.65027778,35.18444444,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

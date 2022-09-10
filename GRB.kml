@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GRB.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>GRB Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-89.06666667,44.75,0 -88.41666667,45.16666666999999,0 -88,45.16666666999999,0 -88,45.45,0 -87.34999999999999,45.45,0 -87,44.86666667,0 -87.11666667,44.66666667,0 -87.2,44.53333333,0 -87.54166667,43.96666667,0 -88.46666667,44.1,0 -88.75416667,44.15944444,0 -88.80833333,44.2625,0 -89.06666667,44.75,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-85.61666667,44.8475,0 -85.55,44.8475,0 -85.42638889,44.75555556,0 -85.42638889,44.71388889,0 -85.55,44.63333333,0 -85.63333333,44.63333333,0 -85.78333333,44.7,0 -85.78333333,44.78333333,0 -85.61666667,44.8475,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>

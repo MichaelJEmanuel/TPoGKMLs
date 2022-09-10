@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BGR.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BGR Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-69.36666667,45.13333333000001,0 -69,45.2375,0 -68.63333333,45.28333333,0 -68.5,45.28333333,0 -68.35833332999999,45.19166667,0 -68.14472222000001,44.77166667,0 -67.99166667,44.46666667,0 -68,44.28333333,0 -68.8,43.86666667,0 -68.80616111000001,43.954775,0 -69.10722222,44.03527778,0 -69.18361111,44.08333333,0 -69.40277777999999,44.26388889,0 -69.71666667,44.5,0 -69.70055556,44.65527778,0 -69.67888889,44.84805556,0 -69.36666667,45.13333333000001,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>GSP.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>GSP Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-81.83055555999999,35.55,0 -81.67916667,35.43166667,0 -81.72499999999999,35.23888889,0 -81.71111111,35.2125,0 -81.37083333,34.475,0 -81.83333333,34.3,0 -81.89166667000001,34.08333333,0 -82.26638889,34.06638889,0 -82.34999999999999,34.05416667,0 -82.45416667000001,34.125,0 -82.60194444,34.20861111,0 -82.86083333000001,34.35388889,0 -82.97638889,34.51833333,0 -82.99166667,34.54,0 -82.99166667,34.68333333,0 -82.925,34.8625,0 -82.62222222,35.07222222,0 -82.315,35.08111111,0 -82.09999999999999,35.29194444,0 -82.09999999999999,35.55,0 -81.83055555999999,35.55,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

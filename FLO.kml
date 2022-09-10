@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>FLO.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>FLO Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.72805556,34.71333333,0 -79.33333333,34.425,0 -79.26333332999999,34.4275,0 -79.06666667,34.43416667,0 -79.06666667,34.21666667,0 -79.58388889,33.82694444,0 -79.69138889,33.81694444,0 -79.79972222000001,33.83361111,0 -79.8475,33.85416667,0 -79.91638888999999,33.88361111,0 -80.03888889,33.96666667,0 -80.08750000000001,34.425,0 -80.28333333,34.5625,0 -80.38305556,34.60027778,0 -80.45277778000001,34.63888889,0 -80.34361111,34.68694444,0 -80.14722222,34.85555556,0 -79.91666667,34.85,0 -79.72805556,34.71333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

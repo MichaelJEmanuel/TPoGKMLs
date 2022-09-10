@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>MIA.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>MIA Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-79.87083333,25.35416667000001,0 -80.13333333,25.275,0 -80.18944444,25.25833333,0 -80.46666667,25.16666667,0 -80.64444444,25.33027778,0 -80.68333333,25.36666667,0 -80.75,25.45,0 -80.875,25.6375,0 -81.00472222,25.74861111,0 -81.00472222,25.77916667,0 -80.96777778000001,26.10444444,0 -80.93916667000001,26.1325,0 -80.89027778000001,26.18055556,0 -80.67194444,26.38333333,0 -80.16388889,26.38333333,0 -80.15000000000001,26.38333333,0 -79.91666667,26.38333333,0 -79.7,26.38333333,0 -79.57777778000001,26.31222222,0 -79.49805556,26.06083333,0 -79.7,25.75,0 -79.7,25.51666667,0 -79.7,25.46666667,0 -79.87083333,25.35416667000001,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

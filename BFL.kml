@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>BFL.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>BFL Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-119.16666667,36.13333333,0 -118.58333333,36.13333333,0 -118.58333333,35.25,0 -118.475,35.0875,0 -118.61944444,34.98333333,0 -118.75972222,34.95833333,0 -119.05555556,34.85694444,0 -119.21666667,35,0 -119.3,35.0625,0 -119.45416667,35.16666667,0 -119.60833333,35.475,0 -119.70833333,35.67361111,0 -119.57638889,35.66083333,0 -119.5,35.63333333,0 -119.37222222,35.82777778,0 -119.46666667,36,0 -119.20833333,36.075,0 -119.16666667,36.13333333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

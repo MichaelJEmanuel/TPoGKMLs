@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>IND.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>IND Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.50416667,40.55833333,0 -85.47499999999999,40.51666667,0 -85.31666667,40.43333333,0 -85.09166667,40.3,0 -85.1575,40.08305556,0 -85.18583332999999,40,0 -85.19166667,39.98611111,0 -85.22499999999999,39.775,0 -85.23388889,39.57888889,0 -85.3175,39.57805556,0 -85.50027778,39.45555556,0 -85.5,39.08333333,0 -86.05,39.02777778,0 -86.34166667,39,0 -86.5,39,0 -86.87083333,39.29166667,0 -86.90000000000001,39.38333333,0 -86.97499999999999,39.95416667,0 -86.95,40,0 -86.91666667,40.07083333,0 -86.86666667,40.16388889,0 -86.34999999999999,40.225,0 -86.08333333,40.20833333,0 -85.95555555999999,40.11944444,0 -85.7975,40.27083333,0 -85.56138889,40.50277778,0 -85.50416667,40.55833333,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

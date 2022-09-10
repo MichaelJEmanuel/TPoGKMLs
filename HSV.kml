@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>HSV.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>HSV Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-87.36666667,34.9375,0 -87.11666667,35.1,0 -87,35.10833333,0 -86.76666667000001,35.13333333,0 -86.40000000000001,35.125,0 -86.26666667000001,34.91666667,0 -85.79166667,34.975,0 -85.93055556,34.81111111,0 -86.075,34.63611111,0 -86.175,34.3875,0 -86.71333333,34.1,0 -87.03333333,34.1,0 -87.12222222,34.24166667,0 -87.3,34.55555556,0 -87.36666667,34.66666667,0 -87.36666667,34.8,0 -87.36666667,34.9375,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>

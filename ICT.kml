@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ICT.kml</name>
+	<Style id="sideStyle0217">
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>2</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ff00ff00</color>
+			<fill>0</fill>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>ICT Airspace</name>
+		<visibility>0</visibility>
+		<styleUrl>#sideStyle0217</styleUrl>
+		<MultiGeometry>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-96.98333332999998,38.1,0 -96.72499999999999,37.8,0 -96.72499999999999,37.74166667,0 -96.71666667,37.625,0 -96.80833333,37.44166667,0 -96.97416667,37.33277778,0 -97.2,37.18333333,0 -97.59999999999999,36.91666667,0 -97.73861110999999,36.97777778,0 -98.00027778000002,37.08333333,0 -98.20027777999998,37.07638889,0 -98.28055556,37.07388889,0 -98.28944443999998,37.11138889,0 -98.46666667,37.83333333,0 -98.41388889000001,37.95555556,0 -98.34166667,38.07222222,0 -98.23055556,38.19722222,0 -98.16666667,38.26666667,0 -98.12222222,38.275,0 -97.98611111,38.35277778,0 -97.82361111,38.42083333,0 -97.7,38.45,0 -97.55833333,38.35416667,0 -97.16666666999998,38.36666667,0 -97.13611111,38.32638889,0 -97.06666667000002,38.21666667,0 -96.98333332999998,38.1,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-98.20277778000001,38.58333333,0 -97.16916667000001,38.6,0 -97.16916667000001,39.09833333,0 -98.20277778000001,39.09833333,0 -98.20277778000001,38.58333333,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
